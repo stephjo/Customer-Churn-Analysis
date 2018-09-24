@@ -5,45 +5,25 @@ This notebook details the approaches and the conclusions of how I approached dis
 The dataset includes following features:
 
 customerID
-
 gender 
-
 SeniorCitizen 
-
 Partner 
-
 Dependents
-
 tenure 
-
 PhoneService 
-
 MultipleLines
-
 InternetService
-
 OnlineSecurity
-
 OnlineBackup 
-
 DeviceProtection
-
 TechSupport 
-
 StreamingTV 
-
 StreamingMovies 
-
 Contract
-
 PaperlessBilling
-
 PaymentMethod
-
 MonthlyCharges
-
 TotalCharges
-
 Churn
 
 This notebook covers:
@@ -60,4 +40,4 @@ Expolratory Data Analysis was used to form assumptions regarding the features wh
 
 Customers can be segmented based on predicted probabilities and customer worth into groups ,so that company can focus on each group by introducing different plans and discounts. This will help to leverage the business as well as the customer satisfaction.
 
-Aside from that, #I hope you enjoy the notebook!
+Aside from that, I hope you enjoy the notebook!
