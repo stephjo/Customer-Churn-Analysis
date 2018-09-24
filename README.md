@@ -34,7 +34,7 @@ Data Cleaning
 <br/>Metrics Evaluation 
 
 
-Conclusion
+Conclusion:
 
 Expolratory Data Analysis was used to form assumptions regarding the features which have high impact on customers' churn behaviour.Logistic regression model helped us to predict if a client will leave or not and showed us which are the most important features.
 
