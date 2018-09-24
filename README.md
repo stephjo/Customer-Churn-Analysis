@@ -29,12 +29,9 @@ Churn
 This notebook covers:
 
 Data Cleaning
-
-Data Exploration 
-
-Training different models and selecting the best model 
-
-Metrics Evaluation 
+</n>Data Exploration 
+</n>Training different models and selecting the best model 
+</n>Metrics Evaluation 
 
 
 Conclusion
