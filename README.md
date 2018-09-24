@@ -4,34 +4,37 @@ This notebook details the approaches and the conclusions of how I approached dis
 
 The dataset includes following features:
 
-customerID
-gender 
-SeniorCitizen 
-Partner 
-Dependents
-tenure 
-PhoneService 
-MultipleLines
-InternetService
-OnlineSecurity
-OnlineBackup 
-DeviceProtection
-TechSupport 
-StreamingTV 
-StreamingMovies 
-Contract
-PaperlessBilling
-PaymentMethod
-MonthlyCharges
-TotalCharges
+customerID,
+gender, 
+SeniorCitizen ,
+Partner ,
+Dependents,
+tenure ,
+PhoneService, 
+MultipleLines,
+InternetService,
+OnlineSecurity,
+OnlineBackup, 
+DeviceProtection,
+TechSupport ,
+StreamingTV ,
+StreamingMovies ,
+Contract,
+PaperlessBilling,
+PaymentMethod,
+MonthlyCharges,
+TotalCharges,
 Churn
 
 This notebook covers:
 
 Data Cleaning
-Data Exploration
-Training different models and selecting the best model
-Metrics Evaluation
+
+Data Exploration 
+
+Training different models and selecting the best model 
+
+Metrics Evaluation 
 
 
 Conclusion
